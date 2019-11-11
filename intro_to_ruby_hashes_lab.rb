@@ -12,7 +12,7 @@ def monopoly_with_third_tier
     {:pennsylvania_railroad => 25}
     {:short_line => 25}
     {:b_and_o_railroad => 25}
-  }}
+  }
 end
 
 def monopoly_with_fourth_tier
