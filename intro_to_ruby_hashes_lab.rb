@@ -9,8 +9,8 @@ end
 def monopoly_with_third_tier
   {:railroads => {:rent_in_dollars => 
     {:reading_railroad => 25}
+    {:pennsylvania_railroad => 25}
     {:}
-    {}
     {}
   }}
 end
