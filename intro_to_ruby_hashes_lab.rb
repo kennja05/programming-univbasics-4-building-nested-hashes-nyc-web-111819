@@ -11,7 +11,7 @@ def monopoly_with_third_tier
     {:reading_railroad => 25}
     {:pennsylvania_railroad => 25}
     {:short_line => 25}
-    {:}
+    {:b_and_o_railroad => 25}
   }}
 end
 
