@@ -7,7 +7,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  {:railroads => {:names => {:one => "placeholder",:two => "2nd placeholder",:three => "third placeholder",:four => "fourth placeholder"}, :rent_in_dollars => {:one => "placeholder",:two => "2nd placeholder",:three => "third placeholder",:four => "fourth placeholder"}}} 
+  {:railroads => {:names => {:one => "placeholder",:two => "2nd placeholder",:three => "third placeholder",:four => "fourth placeholder"}, :rent_in_dollars => {:one_piece_owned => "25",:two => "2nd placeholder",:three => "third placeholder",:four => "fourth placeholder"}}} 
 end
 
 def monopoly_with_fourth_tier
